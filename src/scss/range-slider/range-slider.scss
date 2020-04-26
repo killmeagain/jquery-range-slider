@@ -1,0 +1,16 @@
+.range-slider {
+    display: block;
+    width: 100%;
+    min-height: 6px;
+    
+    background-image: linear-gradient(180deg, #6FCF97 0%, #66D2EA 100%);
+
+    box-sizing: border-box;
+
+    border: 1px solid rgba(201, 201, 201, 0.712);
+    border-radius: 10px;
+
+    position: relative;
+
+    @import "./__control-button/__control-button";
+}

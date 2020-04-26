@@ -1,0 +1,19 @@
+{
+    "compileOnSave": true,
+    "compilerOptions": {
+        "noEmitOnError": true,
+        "module": "ES6",
+        "lib": ["es5", "es6", "es2015.promise", "es2016.array.include", "DOM"],
+        "target" : "ES5",
+        "allowJs": false,
+        "checkJs": false,
+        "removeComments": true,
+        "sourceMap": true,
+        "pretty": true,
+        "charset": "utf8",
+        "preserveConstEnums": true,
+        "noUnusedLocals": true,
+        "noUnusedParameters": true,
+        "noImplicitAny": false,
+    }, 
+}
